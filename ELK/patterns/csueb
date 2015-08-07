@@ -1,0 +1,5 @@
+# Aruba Clearpass
+NASPORT [a-zA-Z0-9._-]+
+
+# ALU
+CMD ([^,]*)
